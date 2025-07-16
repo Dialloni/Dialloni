@@ -191,7 +191,7 @@ const abubakar = {
 ### 🎓 Professional Credentials
 
 <!-- Resume Download -->
-<a href="https://github.com/Dialloni/Dialloni/blob/main/certificates/Abubakar_Diallo_Resume.pdf" target="_blank">
+<a href="https://github.com/Dialloni/Dialloni/blob/main/certificates/Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/📄_Resume-Download_PDF-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
 </a>
 
