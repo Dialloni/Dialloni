@@ -86,18 +86,10 @@ const abubakar = {
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dialloni&bg_color=0D1117&color=F97316&line=F97316&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dialloni&bg_color=0D1117&color=F97316&line=F97316&point=FFFFFF&area=true&hide_border=true&radius=16" width="100%" />
 
   <img src="https://streak-stats.demolab.com?user=Dialloni&theme=radical&hide_border=true&background=0D1117&stroke=F97316&ring=F97316&fire=F97316&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F97316&sideLabels=F97316&dates=FFFFFF" />
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dialloni&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
 </div>
 
 ---
