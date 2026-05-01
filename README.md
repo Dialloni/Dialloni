@@ -133,28 +133,89 @@ const abubakar = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%">
 
-<a href="https://github.com/Dialloni/ADLaM_Pulaar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dialloni&repo=ADLaM_Pulaar&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=FFF&icon_color=F97316" />
-</a>
-<a href="https://github.com/Dialloni/Happiness-Score-RandomForest-ML">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dialloni&repo=Happiness-Score-RandomForest-ML&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=FFF&icon_color=F97316" />
-</a>
-<a href="https://github.com/Dialloni/EsteeLauderBTTAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dialloni&repo=EsteeLauderBTTAI&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=FFF&icon_color=F97316" />
-</a>
-<a href="https://github.com/Dialloni/applied-ai-system-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dialloni&repo=applied-ai-system-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=FFF&icon_color=F97316" />
-</a>
-<a href="https://github.com/Dialloni/MERN_FullStack_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dialloni&repo=MERN_FullStack_Project&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=FFF&icon_color=F97316" />
-</a>
-<a href="https://github.com/Dialloni/spanish-F5-tts-pipelines">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dialloni&repo=spanish-F5-tts-pipelines&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=FFF&icon_color=F97316" />
-</a>
+### 🌍 Gando AI — ADLaM Pulaar
+African-language-first agentic web app builder. Describe an app in Fulani ADLaM, Swahili, Yoruba, or Hausa — get working HTML/CSS/JS + native-language explanation.
 
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_2.5_API-4285F4?style=flat&logo=google&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dialloni/ADLaM_Pulaar)
+
+</td>
+<td align="center" width="50%">
+
+### 📊 Happiness Score Predictor
+ML pipeline predicting national happiness scores. Random Forest — **86.17% accuracy**, outperforming linear baseline by 12% via GridSearchCV.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dialloni/Happiness-Score-RandomForest-ML)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🤖 Estée Lauder AI Studio
+Industry ML research — MLRATE estimator to quantify randomized intervention impact. Delivered client-ready AI prototype with a 7-member cross-functional team.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dialloni/EsteeLauderBTTAI)
+
+</td>
+<td align="center" width="50%">
+
+### 🎵 Applied AI System — RAG Music Recommender
+RAG + agentic workflow music recommender with Claude/GPT explanations, content-based scoring engine, self-correcting recommendation agent, and fairness test suite.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dialloni/applied-ai-system-project)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 💻 MERN Full-Stack Project
+Full-stack MERN application with JWT auth, RESTful APIs, course enrollment, and tutor-student matching. Mobile-optimized with real-time EmailJS integration.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dialloni/MERN_FullStack_Project)
+
+</td>
+<td align="center" width="50%">
+
+### 🔊 Spanish F5-TTS Pipeline
+Spanish TTS fine-tuning pipeline on F5-TTS — Mozilla Common Voice data prep, model training on F5-TTS v1 Base, and AWS EC2 deployment. Built during AI Lifecycle Workshop.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dialloni/spanish-F5-tts-pipelines)
+
+</td>
+</tr>
+</table>
 
 ### 🔥 Project Deep Dives
 
