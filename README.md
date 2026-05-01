@@ -88,8 +88,16 @@ const abubakar = {
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dialloni&bg_color=0D1117&color=F97316&line=F97316&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dialloni&theme=radical&hide_border=true&background=0D1117&stroke=F97316&ring=F97316&fire=F97316&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F97316&sideLabels=F97316&dates=FFFFFF" />
+  <img src="https://streak-stats.demolab.com?user=Dialloni&theme=radical&hide_border=true&background=0D1117&stroke=F97316&ring=F97316&fire=F97316&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F97316&sideLabels=F97316&dates=FFFFFF" />
 
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dialloni&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
 </div>
 
 ---
@@ -98,22 +106,12 @@ const abubakar = {
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css,react,nodejs,express,flask&perline=10" />
+<img src="https://skillicons.dev/icons?i=bootstrap,mongodb,postgresql,firebase,git,docker,vscode,postman,figma,tensorflow&perline=10" />
 
-### 🤖 AI / LLM Stack
-<img src="https://skillicons.dev/icons?i=tensorflow" />
+<br>
 
 **OpenAI API &nbsp;·&nbsp; Claude (Anthropic) API &nbsp;·&nbsp; Gemini API &nbsp;·&nbsp; Mistral AI &nbsp;·&nbsp; LangChain &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Prompt Engineering**
-
-### 🚀 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,bootstrap" />
-
-### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase" />
-
-### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,postman,figma" />
 
 </div>
 
@@ -320,6 +318,14 @@ const collaboration = {
 ```
 
 </div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</div>
+
+---
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
