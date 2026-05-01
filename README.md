@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=850&lines=AI%2FML+Fellow+%40+Cornell+Tech+🤖;Building+AI+for+African+Language+Communities+🌍;Full-Stack+Engineer+%7C+LLM+Engineering+%7C+Agentic+Apps+🚀;NYU+Computer+Science+%7C+Class+of+2027+🎓;Fluent+in+Pulaar+(Fulani)%2C+Turkish+%26+English+🌐" alt="Typing SVG" />
+</div>
+
 <!-- Animated Wave Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Abubakar%20Diallo&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%2FML%20Fellow%20%7C%20Full-Stack%20Engineer%20%7C%20NYU%20CS&descSize=20&descAlignY=58" />
 
@@ -31,8 +35,7 @@
 
   <br><br>
 
-  <!-- Animated Tech Stack Icons (single line = renders as row) -->
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,mongodb&perline=6" alt="Tech Stack" />
 
 </div>
 
@@ -57,7 +60,7 @@ const abubakar = {
     "LLM engineering & agentic systems 🤖",
     "Full-stack products with real-world impact 🚀"
   ],
-  languages:  ["Pulaar (Fulani)", "English"],
+  languages:  ["Pulaar (Fulani)", "Turkish", "English"],
   funFact:    "Fulani oral storytelling informs my approach to UX 🎭",
   openTo:     ["Research collabs", "Open source", "Hackathons"]
 };
@@ -130,62 +133,28 @@ const abubakar = {
 
 ## 🚀 Featured Projects
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="50%">
+<div align="center">
 
-### 🌍 Gando AI
-African-language-first agentic web app builder. Describe an app in Fulani ADLaM, Swahili, Yoruba, or Hausa — get working HTML/CSS/JS + native-language explanation.
+<a href="https://github.com/Dialloni/ADLaM_Pulaar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dialloni&repo=ADLaM_Pulaar&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=FFF&icon_color=F97316" />
+</a>
+<a href="https://github.com/Dialloni/Happiness-Score-RandomForest-ML">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dialloni&repo=Happiness-Score-RandomForest-ML&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=FFF&icon_color=F97316" />
+</a>
+<a href="https://github.com/Dialloni/EsteeLauderBTTAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dialloni&repo=EsteeLauderBTTAI&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=FFF&icon_color=F97316" />
+</a>
+<a href="https://github.com/Dialloni/applied-ai-system-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dialloni&repo=applied-ai-system-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=FFF&icon_color=F97316" />
+</a>
+<a href="https://github.com/Dialloni/MERN_FullStack_Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dialloni&repo=MERN_FullStack_Project&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=FFF&icon_color=F97316" />
+</a>
+<a href="https://github.com/Dialloni/spanish-F5-tts-pipelines">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dialloni&repo=spanish-F5-tts-pipelines&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=FFF&icon_color=F97316" />
+</a>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.5_API-4285F4?style=flat&logo=google&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dialloni)
-
-</td>
-<td align="center" width="50%">
-
-### 📊 Country Happiness Predictor
-ML pipeline predicting national happiness scores. Random Forest — **86.17% accuracy**, outperforming linear baseline by 12% via GridSearchCV.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dialloni)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 💻 SkillSpire LMS
-Full-stack learning management system with JWT auth, RESTful APIs, course enrollment, and tutor-student matching.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dialloni)
-
-</td>
-<td align="center" width="50%">
-
-### 🤖 BMCC AI Innovation Challenge
-AI-powered solution built for BMCC's innovation challenge — smart automation using TypeScript and web technologies.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dialloni/BMCC-AI-INNOVATION-CHALLENGE)
-
-</td>
-</tr>
-</table>
+</div>
 
 ### 🔥 Project Deep Dives
 
