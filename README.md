@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=850&lines=AI%2FML+Fellow+%40+Cornell+Tech+🤖;Building+AI+for+African+Language+Communities+🌍;Full-Stack+Engineer+%7C+LLM+Engineering+%7C+Agentic+Apps+🚀;NYU+Computer+Science+%7C+Class+of+2027+🎓;Fluent+in+Pulaar+(Fulani)%2C+Turkish+%26+English+🌐" alt="Typing SVG" />
-</div>
+
 
 <!-- Animated Wave Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Abubakar%20Diallo&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%2FML%20Fellow%20%7C%20Full-Stack%20Engineer%20%7C%20NYU%20CS&descSize=20&descAlignY=58" />
@@ -75,12 +73,7 @@ const abubakar = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
 
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Dialloni&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=FFF&custom_title=Abubakar's%20GitHub%20Stats" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dialloni&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=FFF&langs_count=8" />
-
-</div>
 
 <div align="center">
 
